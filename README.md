@@ -45,4 +45,4 @@ Create a simple REST API that performs CRUD (Create, Read, Update, Delete) opera
 }
 pip install flask
 python task4_flask_api.py
-
+Api will be live at :http://127.0.0.1:5000
